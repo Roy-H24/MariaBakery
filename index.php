@@ -44,7 +44,7 @@ include 'header.php';
 
 <section>
     <video width="100%" height="800" autoplay muted>
-        <source src="video/video.mp4" type="video/mp4">
+        <source src="video/cakeVideo.mp4" type="video/mp4">
         <source src="video/video.ogg" type="video/ogg">
         Your browser does not support the video tag.
     </video>
